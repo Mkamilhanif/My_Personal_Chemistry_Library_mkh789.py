@@ -1,0 +1,30 @@
+[
+    {
+        "title": "organic chemistry",
+        "author": "morrison boydt",
+        "year": "2011",
+        "genre": "34567",
+        "read": true
+    },
+    {
+        "title": "chemistry",
+        "author": "wasi askari",
+        "year": "2006",
+        "genre": "12332",
+        "read": false
+    },
+    {
+        "title": "Inorganic Chemistry",
+        "author": "clydon",
+        "year": "2001",
+        "genre": "63738",
+        "read": true
+    },
+    {
+        "title": "Inorganic Chemistry",
+        "author": "clydon",
+        "year": "2001",
+        "genre": "63738",
+        "read": true
+    }
+]
